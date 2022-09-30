@@ -251,11 +251,7 @@
         "topic" : "linked list",
         "question" : "https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1?page=1&category[]=Linked%20List&sortBy=submissions",
         "answerLink" : "https://www.youtube.com/watch?v=iRtLEoL-r-g"
-         
-         
      },
-
-
 
  {
         "id" : "652",
@@ -270,7 +266,12 @@
       "question" : "Find all distinct combinations of a given length ",
       "answerLink" : "https://www.techiedelight.com/find-distinct-combinations-of-given-length/"
 },
-    
+     {
+         "id" : "71",
+         "topic" : "Python",
+         "question" : " What is the difference between list and tuples in Python? ",
+         "answerLink" : "https://www.edureka.co/blog/interview-questions/python-interview-questions/#WhatisthedifferencebetweenlistandtuplesinPython?"
+     }
 ]
 
 
